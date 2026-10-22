@@ -1,0 +1,19 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Django: segredos e banco local
+**/.env
+*.sqlite3
+
+# React
+node_modules/
+dist/
+build/
+
+# Editor
+.vscode/
+
